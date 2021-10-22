@@ -27,7 +27,7 @@
     - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
     - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
     - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 1h 45m 30s` - 04 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
-    - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) ` in progress` ` 2h 20m 56s` - 05 - [Programming Foundations: Data Structures](Linkedin-Learning/Programming-Foundations-Data-Structures/)
+    - [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) ` in progress` ` 2h 20m 56s` - 05 - [Programming Foundations: Data Structures](Linkedin-Learning/Programming-Foundations-Data-Structures/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` not started ` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` not started ` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` not started ` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
