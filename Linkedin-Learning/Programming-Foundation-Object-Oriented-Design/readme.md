@@ -15,4 +15,4 @@
 - Developing software with object-oriented design principles
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/)
-<br>[Preview Certificate](https://www.linkedin.com/posts/yasin-samy-9a5a6620b_certificateofcompletionprogramming-foundations-activity-6851233204205039616-dHP6)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/e376c71373b4fe485e790f9afc7598aff91801c322064e11ee02bb4044e0afe9?trk=share_certificate)
