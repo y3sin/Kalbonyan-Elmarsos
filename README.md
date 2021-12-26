@@ -33,8 +33,8 @@
     - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
     - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
     - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 2h 55m 49s` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
-    - [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) ` In Progress ` ` 2h 45m 37s` - 11 -[HTML Essential Training](Linkedin-Learning/Html-Essential-Training/)
-    - [ ] ![#C00](https://via.placeholder.com/12/C00/000000?text=+) ` not started ` ` 4h 29m 7s` - 12- [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
+    - [ ] ![#0F9D58](https://via.placeholder.com/12/0F9D58/000000?text=+) ` Done ` ` 2h 45m 37s` - 11 -[HTML Essential Training](Linkedin-Learning/Html-Essential-Training/)
+    - [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) ` In Progress ` ` 4h 29m 7s` - 12- [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
     <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-24h27m-blue">
