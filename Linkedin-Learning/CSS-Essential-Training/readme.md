@@ -13,5 +13,5 @@ Learning objectives
 - Working with advanced selectors
 - Creating fluid layouts
 
-[Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
+[Course Link](https://www.linkedin.com/learning/css-essential-training-3)
 <br>[Preview Certificate](https://drive.google.com/file/d/1eE3ytAYjCYdfQPzs3AhM35MRBaet8g6w/view)
