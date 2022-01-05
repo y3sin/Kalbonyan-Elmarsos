@@ -14,4 +14,4 @@ Learning objectives
 - Creating fluid layouts
 
 [Course Link](https://www.linkedin.com/learning/css-essential-training-3)
-<br>[Preview Certificate](https://drive.google.com/file/d/1eE3ytAYjCYdfQPzs3AhM35MRBaet8g6w/view)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/07e4cf353be7d9f6e800a3787d0b16a4c85a6ffe051bfada59812bd31bceb49d?trk=share_certificate)
