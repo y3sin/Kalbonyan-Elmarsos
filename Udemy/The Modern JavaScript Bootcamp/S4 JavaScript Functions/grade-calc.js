@@ -17,7 +17,8 @@ let gradeCalc = function (score, totalScore) {
   } else {
     letterGrade = 'F';
   }
+  return `You got '${letterGrade}' [${percent}%]`
 }
 
-let result = letterGrade(9, 20);
+let result = gradeCalc(9, 20);
 console.log("Your result is: " + result);
